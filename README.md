@@ -1,4 +1,4 @@
-# Novation-Launchpad-Mini-MK3-for-Reaper
+# Novation Launchpad Mini MK3 for Reaper with Playtime
 A set of config and helper files to make Novation Launchpad Mini MK3 useful with [Cockos Reaper](https://www.reaper.fm/index.php) and [Helgoboss Playtime](https://www.helgoboss.org/projects/playtime/).
 
 ## Using Launchpad Mini MK3 in Legacy mode with Playtime:
