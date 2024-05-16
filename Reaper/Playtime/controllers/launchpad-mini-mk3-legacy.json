@@ -1,0 +1,407 @@
+{
+  "beatIndicationIsEnabled": false,
+  "emptySlotUntriggersGroup": false,
+  "lights": {
+    "almostPlaying": 96,
+    "almostStopping": 49,
+    "empty": 43,
+    "playing": 53,
+    "recording": 5,
+    "stopped": 33
+  },
+  "midiTriggers": {
+    "groups": [
+      {
+        "index": 0,
+        "midiKey": 45147
+      },
+      {
+        "index": 1,
+        "midiKey": 45148
+      },
+      {
+        "index": 2,
+        "midiKey": 45149
+      },
+      {
+        "index": 3,
+        "midiKey": 45150
+      },
+      {
+        "index": 4,
+        "midiKey": 45151
+      },
+      {
+        "index": 5,
+        "midiKey": 45152
+      },
+      {
+        "index": 6,
+        "midiKey": 45153
+      },
+      {
+        "index": 7,
+        "midiKey": 45154
+      }
+    ],
+    "scenes": [
+      {
+        "index": 0,
+        "midiKey": 36964
+      },
+      {
+        "index": 1,
+        "midiKey": 36965
+      },
+      {
+        "index": 2,
+        "midiKey": 36966
+      },
+      {
+        "index": 3,
+        "midiKey": 36967
+      },
+      {
+        "index": 4,
+        "midiKey": 36968
+      },
+      {
+        "index": 5,
+        "midiKey": 36969
+      },
+      {
+        "index": 6,
+        "midiKey": 36970
+      },
+      {
+        "index": 7,
+        "midiKey": 36971
+      }
+    ],
+    "slots": [
+      {
+        "column": 0,
+        "midiKey": 36928,
+        "row": 0
+      },
+      {
+        "column": 1,
+        "midiKey": 36929,
+        "row": 0
+      },
+      {
+        "column": 2,
+        "midiKey": 36930,
+        "row": 0
+      },
+      {
+        "column": 3,
+        "midiKey": 36931,
+        "row": 0
+      },
+      {
+        "column": 4,
+        "midiKey": 36960,
+        "row": 0
+      },
+      {
+        "column": 5,
+        "midiKey": 36961,
+        "row": 0
+      },
+      {
+        "column": 6,
+        "midiKey": 36962,
+        "row": 0
+      },
+      {
+        "column": 7,
+        "midiKey": 36963,
+        "row": 0
+      },
+      {
+        "column": 0,
+        "midiKey": 36924,
+        "row": 1
+      },
+      {
+        "column": 1,
+        "midiKey": 36925,
+        "row": 1
+      },
+      {
+        "column": 2,
+        "midiKey": 36926,
+        "row": 1
+      },
+      {
+        "column": 3,
+        "midiKey": 36927,
+        "row": 1
+      },
+      {
+        "column": 4,
+        "midiKey": 36956,
+        "row": 1
+      },
+      {
+        "column": 5,
+        "midiKey": 36957,
+        "row": 1
+      },
+      {
+        "column": 6,
+        "midiKey": 36958,
+        "row": 1
+      },
+      {
+        "column": 7,
+        "midiKey": 36959,
+        "row": 1
+      },
+      {
+        "column": 0,
+        "midiKey": 36920,
+        "row": 2
+      },
+      {
+        "column": 1,
+        "midiKey": 36921,
+        "row": 2
+      },
+      {
+        "column": 2,
+        "midiKey": 36922,
+        "row": 2
+      },
+      {
+        "column": 3,
+        "midiKey": 36923,
+        "row": 2
+      },
+      {
+        "column": 4,
+        "midiKey": 36952,
+        "row": 2
+      },
+      {
+        "column": 5,
+        "midiKey": 36953,
+        "row": 2
+      },
+      {
+        "column": 6,
+        "midiKey": 36954,
+        "row": 2
+      },
+      {
+        "column": 7,
+        "midiKey": 36955,
+        "row": 2
+      },
+      {
+        "column": 0,
+        "midiKey": 36916,
+        "row": 3
+      },
+      {
+        "column": 1,
+        "midiKey": 36917,
+        "row": 3
+      },
+      {
+        "column": 2,
+        "midiKey": 36918,
+        "row": 3
+      },
+      {
+        "column": 3,
+        "midiKey": 36919,
+        "row": 3
+      },
+      {
+        "column": 4,
+        "midiKey": 36948,
+        "row": 3
+      },
+      {
+        "column": 5,
+        "midiKey": 36949,
+        "row": 3
+      },
+      {
+        "column": 6,
+        "midiKey": 36950,
+        "row": 3
+      },
+      {
+        "column": 7,
+        "midiKey": 36951,
+        "row": 3
+      },
+      {
+        "column": 0,
+        "midiKey": 36912,
+        "row": 4
+      },
+      {
+        "column": 1,
+        "midiKey": 36913,
+        "row": 4
+      },
+      {
+        "column": 2,
+        "midiKey": 36914,
+        "row": 4
+      },
+      {
+        "column": 3,
+        "midiKey": 36915,
+        "row": 4
+      },
+      {
+        "column": 4,
+        "midiKey": 36944,
+        "row": 4
+      },
+      {
+        "column": 5,
+        "midiKey": 36945,
+        "row": 4
+      },
+      {
+        "column": 6,
+        "midiKey": 36946,
+        "row": 4
+      },
+      {
+        "column": 7,
+        "midiKey": 36947,
+        "row": 4
+      },
+      {
+        "column": 0,
+        "midiKey": 36908,
+        "row": 5
+      },
+      {
+        "column": 1,
+        "midiKey": 36909,
+        "row": 5
+      },
+      {
+        "column": 2,
+        "midiKey": 36910,
+        "row": 5
+      },
+      {
+        "column": 3,
+        "midiKey": 36911,
+        "row": 5
+      },
+      {
+        "column": 4,
+        "midiKey": 36940,
+        "row": 5
+      },
+      {
+        "column": 5,
+        "midiKey": 36941,
+        "row": 5
+      },
+      {
+        "column": 6,
+        "midiKey": 36942,
+        "row": 5
+      },
+      {
+        "column": 7,
+        "midiKey": 36943,
+        "row": 5
+      },
+      {
+        "column": 0,
+        "midiKey": 36904,
+        "row": 6
+      },
+      {
+        "column": 1,
+        "midiKey": 36905,
+        "row": 6
+      },
+      {
+        "column": 2,
+        "midiKey": 36906,
+        "row": 6
+      },
+      {
+        "column": 3,
+        "midiKey": 36907,
+        "row": 6
+      },
+      {
+        "column": 4,
+        "midiKey": 36936,
+        "row": 6
+      },
+      {
+        "column": 5,
+        "midiKey": 36937,
+        "row": 6
+      },
+      {
+        "column": 6,
+        "midiKey": 36938,
+        "row": 6
+      },
+      {
+        "column": 7,
+        "midiKey": 36939,
+        "row": 6
+      },
+      {
+        "column": 0,
+        "midiKey": 36900,
+        "row": 7
+      },
+      {
+        "column": 1,
+        "midiKey": 36901,
+        "row": 7
+      },
+      {
+        "column": 2,
+        "midiKey": 36902,
+        "row": 7
+      },
+      {
+        "column": 3,
+        "midiKey": 36903,
+        "row": 7
+      },
+      {
+        "column": 4,
+        "midiKey": 36932,
+        "row": 7
+      },
+      {
+        "column": 5,
+        "midiKey": 36933,
+        "row": 7
+      },
+      {
+        "column": 6,
+        "midiKey": 36934,
+        "row": 7
+      },
+      {
+        "column": 7,
+        "midiKey": 36935,
+        "row": 7
+      }
+    ]
+  },
+  "name": "Launchpad Mini MK3 in Legacy Mode",
+  "triggersAreFixed": true,
+  "visualFeedbackIsEnabled": true
+}
